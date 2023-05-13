@@ -1,14 +1,14 @@
 # Todo List
 This is a simple Todo List app created using React. It allows users to create, edit, and delete tasks, and mark them as completed.
 # Features
-Create new tasks
-Delete tasks
-Mark tasks as completed
-Filter completed tasks
-Filter Active tasks
-clear all tasks
-store the tasks in local storage
-render existing tasks in local storage in the page
+-Create new tasks
+-Delete tasks
+-Mark tasks as completed
+-Filter completed tasks
+-Filter Active tasks
+-clear all tasks
+-store the tasks in local storage
+-render existing tasks in local storage in the page
 # Technologies Used
 React
 HTML
