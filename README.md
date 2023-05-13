@@ -1,5 +1,5 @@
 # Todo List
-This is a simple Todo List app created using React. It allows users to create, edit, and delete tasks, and mark them as completed.
+This is a simple Todo List app created using React. It allows users to create, Filter theme, and delete tasks, and mark them as completed.
 # Features
 - Create new tasks
 - Delete tasks
