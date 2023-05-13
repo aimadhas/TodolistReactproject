@@ -10,10 +10,10 @@ This is a simple Todo List app created using React. It allows users to create, e
 - store the tasks in local storage
 - render existing tasks in local storage in the page
 # Technologies Used
-React
-HTML
-CSS
-localStorage
+- React
+- HTML
+- Tailwind
+- localStorage
 
 # Getting Started with Create React App
 
